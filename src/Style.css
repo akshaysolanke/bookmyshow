@@ -1,0 +1,76 @@
+.a_bg_red_color {
+    background: #F84464;
+}
+
+.a_sign_in_btn:hover {
+   background:#F84464 !important;
+    border: 1px solid #F84464 !important;
+}
+.a_sign_in_btn {
+    font-size: 12px;
+    background-color: #F84464;
+    height: 25px;
+    width: 67px;
+    border: 1px solid #F84464;
+    border-radius: 5px;
+}
+.a_bg_dark {
+    background-color:#F5F5F5;
+}
+.a_bg_blackdark {
+    background-color: #1F253B;
+}
+.a_bottom ul{
+    list-style: none;
+    margin: 0px;
+    padding-left: 0px;
+}
+.a_bottom ul a{
+    color: #333333;
+    text-decoration: none;
+}
+.a_bottom ul a.active {
+    color: rgb(0, 0, 0) !important;
+    
+}
+.a_bottom ul span {
+    font-weight: 400;
+    font-size: 12px;
+}
+.a_border_red_light {
+    border: 1px solid red !important;
+} 
+.a_user_select_none {
+    user-select: none;
+}
+.a_cursor_pointer {
+    cursor: pointer;
+}
+.a_redlite_color2 {
+    color: #DC354B;
+} 
+.a_h13 {
+    font-size: 13px;
+}
+.a_h15 {
+    font-size: 15px;
+}
+.a_h19 {
+    font-size: 19px;
+}
+.a_h14 {
+    font-size: 14px;
+}
+.a_h20 {
+    font-size: 20px;
+}
+.a_bgmovie { 
+    background-color: #2B3149;
+    
+}
+.a_h18 {
+    font-size: 18px;
+}
+.a_h9 {
+    font-size: 9px;
+}

@@ -1,0 +1,21 @@
+/* .a_bg_light {
+    background-color: #EBEBEB;
+    
+} */
+.control-arrow{
+    background: #6D6D6D !important;
+    height: 35px;
+    width: 45px;
+    margin: auto !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.control-prev{
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.control-next{
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}

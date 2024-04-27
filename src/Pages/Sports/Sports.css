@@ -1,0 +1,11 @@
+
+.a_img1_box img {
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    border-radius: 10px;
+    object-fit: contain;
+    
+}

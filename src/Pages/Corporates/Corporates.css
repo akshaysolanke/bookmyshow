@@ -1,0 +1,66 @@
+.a_solutions {
+    padding: 0px !important;
+    background-color: white !important;
+}
+.a_solutions .a_card {
+height: 400px;
+background-position: center !important;
+background-size: cover !important;
+background-repeat: no-repeat !important;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+.a_background {
+    background-color: #FFFFFF;
+    
+}
+.a_button {
+    font-weight: 600;
+    background-color: #EB4E62;
+    color: white;
+    border: none;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 4px;
+}
+.a_our_product {
+    font-size: 16px;
+}
+.a_products {
+    height: 540px;
+   
+    padding: 10px;
+    object-fit: cover;
+   
+    
+}
+.a_buttons {
+    border: none;
+    font-size: 16px;
+    padding: 15px 55px;
+    border-radius: 5px;
+    color:#DC3551;
+    font-weight: 600;
+    margin: 40px 0px !important;
+}
+.a_bulk_booking {
+    padding: 80px 50px;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+  }
+ .a_img_box {
+    width: 140px;
+    height: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+ 
+  }
+  .a_bt:hover {
+    background-color: #FFFFFF;
+    color: red;
+  }
