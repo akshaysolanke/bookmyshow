@@ -12,6 +12,7 @@ import ListYourShow from "./Pages/ListYourShow/ListYourShow";
 import Offers from "./Pages/Offers/Offers";
 import Footer from "./Footer/Footer";
 import GiftCards from "./Pages/GiftCards/GiftCards";
+import Details from "./Pages/Details/Details";
 
 
 
@@ -31,6 +32,7 @@ function App(){
          <Route path="/corporates" element={<Corporates/>}></Route>
          <Route path="/offers" element={<Offers/>}></Route>
          <Route path="/giftcards" element={<GiftCards/>}></Route>
+         <Route path="/details" element={<Details/>}></Route>
          <Route path="*" element={<h4>Page Not Found</h4>}></Route>
         </Routes>
         <Footer/>

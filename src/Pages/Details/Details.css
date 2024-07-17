@@ -1,0 +1,21 @@
+.b_movies_details {
+    min-height: 480px;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    display: flex;
+    justify-content: center;
+    background-position: center !important;
+    align-items: center;
+}
+.b_movies_details .a_img_box{
+    height: 400px;
+    width: 65%;
+    border-radius: 10px;
+}
+.b_movies_details .a_img_box img{
+    height: 100%;
+    width: 100%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    object-fit: cover;
+}
